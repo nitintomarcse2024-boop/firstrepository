@@ -1,6 +1,6 @@
 # firstrepository
 my first repository
 <br>
-author nitin toma 
+author nitin tomar
 <br>
 branch cse
